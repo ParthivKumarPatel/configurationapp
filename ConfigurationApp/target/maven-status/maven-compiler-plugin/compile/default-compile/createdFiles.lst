@@ -1,0 +1,5 @@
+com\test\App.class
+com\test\service\ConfigurationServiceImpl.class
+com\test\service\ConfigurationService.class
+com\test\controller\AppConfigController.class
+com\test\domain\ConfigurableItem.class
